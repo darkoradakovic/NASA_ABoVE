@@ -9,7 +9,7 @@ Title: An integrated CANAPANI and Deep-learning based approach for mapping of ta
 Supervisor: Dr. M.J. Chopping
 
 
-Methods
+<h1>Methods</h1>
 
 Study area
 Our study area encompasses two domains, the Northern Alaskan and Canadian arctic zone.
@@ -27,7 +27,7 @@ The training will be carried out using ResNet50 (capable to classify up to a 100
 
 
 
-#References:<br>
+<h1>References:</h1><br>
 ABoVE Science Cloud (ASC). (2021). NASA Center for Climate Simulation (NCCS). https://above.nasa.gov/sciencecloud.html
 
 Chopping, M., Duchesne, R., Erb, A, Wang, Z., Schaaf, C., and Chopping, C. (2018), CANAPANI: A New Version of CANAPI for Mapping Tall Shrub Canopies in Arctic Tundra, NASA Arctic Boreal Vulnerability Experiment (ABoVE) Science Team Meeting, Seattle, WA, January 22 – 26, 2018.
