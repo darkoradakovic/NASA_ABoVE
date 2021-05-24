@@ -38,5 +38,5 @@ Zhang, Y., Sherstiukov, A. B., Qian, B., Kokelj, S. V., Lantz, T. C. (2018a). Im
 
 Zhang, W., Witharana, C., Liljedahl, A.K., Kanevskiy, M. (2018b). Deep Convolutional Neural Networks for Automated Characterization of Arctic Ice-Wedge Polygons in Very High Spatial Resolution Aerial Imagery. Remote Sens. 10, 1487. https://doi.org/10.3390/rs10091487
 
-https://towardsdatascience.com/mask-rcnn-implementation-on-a-custom-dataset-fd9a878123d4
-https://towardsdatascience.com/mask-rcnn-implementation-on-a-custom-dataset-fd9a878123d4
+Built upon Matterplot Mask R-CNN:
+https://github.com/matterport/Mask_RCNN
