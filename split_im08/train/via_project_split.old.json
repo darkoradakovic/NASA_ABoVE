@@ -1,0 +1,2354 @@
+[
+      {
+            "filename": "QBsite14_2000m_08_01_01.png",
+            "regions": [
+                  {
+                        "shape_attributes": {
+                              "x": 32,
+                              "y": 182,
+                              "x2": 43,
+                              "y2": 188,
+                              "bbox": 14,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 36,
+                              "y": 191,
+                              "x2": 44,
+                              "y2": 200,
+                              "bbox": 15,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 29,
+                              "y": 192,
+                              "x2": 39,
+                              "y2": 202,
+                              "bbox": 16,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 88,
+                              "y": 238,
+                              "x2": 99,
+                              "y2": 251,
+                              "bbox": 17,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 226,
+                              "y": 91,
+                              "x2": 235,
+                              "y2": 107,
+                              "bbox": 18,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 227,
+                              "y": 3,
+                              "x2": 240,
+                              "y2": 22,
+                              "bbox": 19,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 212,
+                              "y": 6,
+                              "x2": 222,
+                              "y2": 20,
+                              "bbox": 20,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 134,
+                              "y": 66,
+                              "x2": 147,
+                              "y2": 78,
+                              "bbox": 21,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 174,
+                              "y": 31,
+                              "x2": 188,
+                              "y2": 44,
+                              "bbox": 22,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 560,
+                              "y": 262,
+                              "x2": 569,
+                              "y2": 276,
+                              "bbox": 23,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 255,
+                              "y": 519,
+                              "x2": 267,
+                              "y2": 530,
+                              "bbox": 24,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 281,
+                              "y": 556,
+                              "x2": 295,
+                              "y2": 569,
+                              "bbox": 25,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 616,
+                              "y": 467,
+                              "x2": 628,
+                              "y2": 483,
+                              "bbox": 26,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 511,
+                              "y": 518,
+                              "x2": 526,
+                              "y2": 537,
+                              "bbox": 27,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 592,
+                              "y": 530,
+                              "x2": 620,
+                              "y2": 553,
+                              "bbox": 28,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 481,
+                              "y": 569,
+                              "x2": 496,
+                              "y2": 581,
+                              "bbox": 29,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 485,
+                              "y": 506,
+                              "x2": 495,
+                              "y2": 518,
+                              "bbox": 30,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 411,
+                              "y": 578,
+                              "x2": 420,
+                              "y2": 590,
+                              "bbox": 31,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 323,
+                              "y": 602,
+                              "x2": 339,
+                              "y2": 622,
+                              "bbox": 32,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 595,
+                              "y": 570,
+                              "x2": 603,
+                              "y2": 583,
+                              "bbox": 33,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 643,
+                              "y": 582,
+                              "x2": 652,
+                              "y2": 594,
+                              "bbox": 34,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 539,
+                              "y": 622,
+                              "x2": 555,
+                              "y2": 637,
+                              "bbox": 35,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 479,
+                              "y": 589,
+                              "x2": 496,
+                              "y2": 599,
+                              "bbox": 36,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 403,
+                              "y": 624,
+                              "x2": 415,
+                              "y2": 647,
+                              "bbox": 37,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 403,
+                              "y": 662,
+                              "x2": 425,
+                              "y2": 675,
+                              "bbox": 38,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 326,
+                              "y": 657,
+                              "x2": 365,
+                              "y2": 670,
+                              "bbox": 39,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 352,
+                              "y": 589,
+                              "x2": 374,
+                              "y2": 624,
+                              "bbox": 40,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 570,
+                              "y": 625,
+                              "x2": 592,
+                              "y2": 650,
+                              "bbox": 41,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 68,
+                              "y": 654,
+                              "x2": 83,
+                              "y2": 670,
+                              "bbox": 42,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 102,
+                              "y": 641,
+                              "x2": 114,
+                              "y2": 655,
+                              "bbox": 43,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 62,
+                              "y": 711,
+                              "x2": 84,
+                              "y2": 733,
+                              "bbox": 44,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 35,
+                              "y": 698,
+                              "x2": 51,
+                              "y2": 711,
+                              "bbox": 45,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 110,
+                              "y": 717,
+                              "x2": 123,
+                              "y2": 736,
+                              "bbox": 46,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 142,
+                              "y": 722,
+                              "x2": 166,
+                              "y2": 748,
+                              "bbox": 47,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 271,
+                              "y": 640,
+                              "x2": 287,
+                              "y2": 663,
+                              "bbox": 48,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 250,
+                              "y": 653,
+                              "x2": 265,
+                              "y2": 674,
+                              "bbox": 49,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 264,
+                              "y": 695,
+                              "x2": 281,
+                              "y2": 712,
+                              "bbox": 50,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 292,
+                              "y": 686,
+                              "x2": 304,
+                              "y2": 696,
+                              "bbox": 51,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 235,
+                              "y": 756,
+                              "x2": 253,
+                              "y2": 775,
+                              "bbox": 52,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 270,
+                              "y": 754,
+                              "x2": 288,
+                              "y2": 776,
+                              "bbox": 55,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 293,
+                              "y": 739,
+                              "x2": 304,
+                              "y2": 755,
+                              "bbox": 56,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 296,
+                              "y": 776,
+                              "x2": 309,
+                              "y2": 793,
+                              "bbox": 57,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 362,
+                              "y": 706,
+                              "x2": 382,
+                              "y2": 735,
+                              "bbox": 58,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 397,
+                              "y": 746,
+                              "x2": 405,
+                              "y2": 762,
+                              "bbox": 59,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 396,
+                              "y": 704,
+                              "x2": 414,
+                              "y2": 727,
+                              "bbox": 60,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 434,
+                              "y": 686,
+                              "x2": 453,
+                              "y2": 703,
+                              "bbox": 61,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 474,
+                              "y": 664,
+                              "x2": 493,
+                              "y2": 684,
+                              "bbox": 62,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 482,
+                              "y": 629,
+                              "x2": 497,
+                              "y2": 645,
+                              "bbox": 63,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 537,
+                              "y": 646,
+                              "x2": 549,
+                              "y2": 660,
+                              "bbox": 64,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 564,
+                              "y": 657,
+                              "x2": 580,
+                              "y2": 672,
+                              "bbox": 65,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 484,
+                              "y": 734,
+                              "x2": 499,
+                              "y2": 751,
+                              "bbox": 66,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 424,
+                              "y": 761,
+                              "x2": 454,
+                              "y2": 777,
+                              "bbox": 67,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 414,
+                              "y": 786,
+                              "x2": 436,
+                              "y2": 814,
+                              "bbox": 68,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 582,
+                              "y": 771,
+                              "x2": 600,
+                              "y2": 793,
+                              "bbox": 88,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 619,
+                              "y": 767,
+                              "x2": 638,
+                              "y2": 786,
+                              "bbox": 89,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 610,
+                              "y": 683,
+                              "x2": 634,
+                              "y2": 706,
+                              "bbox": 90,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 504,
+                              "y": 665,
+                              "x2": 534,
+                              "y2": 681,
+                              "bbox": 91,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 532,
+                              "y": 685,
+                              "x2": 542,
+                              "y2": 701,
+                              "bbox": 92,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 596,
+                              "y": 714,
+                              "x2": 609,
+                              "y2": 729,
+                              "bbox": 93,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 571,
+                              "y": 717,
+                              "x2": 580,
+                              "y2": 739,
+                              "bbox": 94,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 516,
+                              "y": 738,
+                              "x2": 528,
+                              "y2": 767,
+                              "bbox": 95,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 537,
+                              "y": 722,
+                              "x2": 550,
+                              "y2": 734,
+                              "bbox": 96,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 449,
+                              "y": 716,
+                              "x2": 464,
+                              "y2": 738,
+                              "bbox": 97,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 546,
+                              "y": 765,
+                              "x2": 561,
+                              "y2": 800,
+                              "bbox": 98,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 718,
+                              "y": 362,
+                              "x2": 745,
+                              "y2": 388,
+                              "bbox": 181,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 726,
+                              "y": 517,
+                              "x2": 745,
+                              "y2": 540,
+                              "bbox": 182,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 653,
+                              "y": 573,
+                              "x2": 675,
+                              "y2": 593,
+                              "bbox": 183,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 693,
+                              "y": 628,
+                              "x2": 721,
+                              "y2": 645,
+                              "bbox": 184,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 681,
+                              "y": 739,
+                              "x2": 703,
+                              "y2": 759,
+                              "bbox": 187,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 703,
+                              "y": 759,
+                              "x2": 722,
+                              "y2": 776,
+                              "bbox": 188,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 660,
+                              "y": 787,
+                              "x2": 675,
+                              "y2": 810,
+                              "bbox": 189,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  }
+            ]
+      },
+      {
+            "filename": "QBsite14_2000m_08_01_02.png",
+            "regions": [
+                  {
+                        "shape_attributes": {
+                              "x": 4,
+                              "y": 144,
+                              "x2": 30,
+                              "y2": 168,
+                              "bbox": 179,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 99,
+                              "y": 177,
+                              "x2": 121,
+                              "y2": 189,
+                              "bbox": 180,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 70,
+                              "y": 730,
+                              "x2": 87,
+                              "y2": 742,
+                              "bbox": 185,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  }
+            ]
+      },
+      {
+            "filename": "QBsite14_2000m_08_01_03.png",
+            "regions": [
+                  {
+                        "shape_attributes": {
+                              "x": 786,
+                              "y": 223,
+                              "x2": 804,
+                              "y2": 245,
+                              "bbox": 4,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 389,
+                              "y": 603,
+                              "x2": 408,
+                              "y2": 625,
+                              "bbox": 227,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 374,
+                              "y": 634,
+                              "x2": 396,
+                              "y2": 657,
+                              "bbox": 228,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 240,
+                              "y": 724,
+                              "x2": 253,
+                              "y2": 737,
+                              "bbox": 229,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 383,
+                              "y": 686,
+                              "x2": 397,
+                              "y2": 700,
+                              "bbox": 230,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 375,
+                              "y": 727,
+                              "x2": 386,
+                              "y2": 740,
+                              "bbox": 231,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 395,
+                              "y": 729,
+                              "x2": 406,
+                              "y2": 741,
+                              "bbox": 232,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 390,
+                              "y": 736,
+                              "x2": 406,
+                              "y2": 752,
+                              "bbox": 233,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 382,
+                              "y": 781,
+                              "x2": 396,
+                              "y2": 799,
+                              "bbox": 234,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 380,
+                              "y": 760,
+                              "x2": 393,
+                              "y2": 770,
+                              "bbox": 235,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 358,
+                              "y": 790,
+                              "x2": 369,
+                              "y2": 799,
+                              "bbox": 236,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 786,
+                              "y": 223,
+                              "x2": 804,
+                              "y2": 245,
+                              "bbox": 801,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 786,
+                              "y": 223,
+                              "x2": 804,
+                              "y2": 245,
+                              "bbox": 815,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 786,
+                              "y": 223,
+                              "x2": 804,
+                              "y2": 245,
+                              "bbox": 829,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 786,
+                              "y": 223,
+                              "x2": 804,
+                              "y2": 245,
+                              "bbox": 843,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 786,
+                              "y": 223,
+                              "x2": 804,
+                              "y2": 245,
+                              "bbox": 857,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  }
+            ]
+      },
+      {
+            "filename": "QBsite14_2000m_08_01_04.png",
+            "regions": [
+                  {
+                        "shape_attributes": {
+                              "x": 51,
+                              "y": 215,
+                              "x2": 95,
+                              "y2": 307,
+                              "bbox": 0,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 27,
+                              "y": 293,
+                              "x2": 55,
+                              "y2": 329,
+                              "bbox": 1,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 61,
+                              "y": 310,
+                              "x2": 97,
+                              "y2": 338,
+                              "bbox": 2,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 95,
+                              "y": 323,
+                              "x2": 114,
+                              "y2": 339,
+                              "bbox": 3,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 75,
+                              "y": 178,
+                              "x2": 91,
+                              "y2": 198,
+                              "bbox": 5,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 97,
+                              "y": 173,
+                              "x2": 109,
+                              "y2": 201,
+                              "bbox": 6,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 400,
+                              "y": 341,
+                              "x2": 414,
+                              "y2": 359,
+                              "bbox": 7,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 219,
+                              "y": 245,
+                              "x2": 286,
+                              "y2": 320,
+                              "bbox": 8,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 286,
+                              "y": 277,
+                              "x2": 297,
+                              "y2": 289,
+                              "bbox": 9,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 308,
+                              "y": 222,
+                              "x2": 323,
+                              "y2": 239,
+                              "bbox": 10,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 413,
+                              "y": 559,
+                              "x2": 430,
+                              "y2": 579,
+                              "bbox": 735,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 482,
+                              "y": 441,
+                              "x2": 503,
+                              "y2": 468,
+                              "bbox": 736,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 558,
+                              "y": 418,
+                              "x2": 579,
+                              "y2": 444,
+                              "bbox": 737,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 651,
+                              "y": 441,
+                              "x2": 660,
+                              "y2": 479,
+                              "bbox": 738,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 669,
+                              "y": 417,
+                              "x2": 679,
+                              "y2": 443,
+                              "bbox": 739,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 369,
+                              "y": 552,
+                              "x2": 383,
+                              "y2": 568,
+                              "bbox": 740,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 369,
+                              "y": 572,
+                              "x2": 389,
+                              "y2": 589,
+                              "bbox": 741,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 365,
+                              "y": 633,
+                              "x2": 382,
+                              "y2": 659,
+                              "bbox": 742,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 391,
+                              "y": 615,
+                              "x2": 409,
+                              "y2": 635,
+                              "bbox": 743,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 466,
+                              "y": 708,
+                              "x2": 480,
+                              "y2": 733,
+                              "bbox": 744,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 467,
+                              "y": 666,
+                              "x2": 479,
+                              "y2": 683,
+                              "bbox": 745,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 442,
+                              "y": 604,
+                              "x2": 461,
+                              "y2": 623,
+                              "bbox": 746,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 156,
+                              "y": 650,
+                              "x2": 221,
+                              "y2": 703,
+                              "bbox": 747,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 120,
+                              "y": 505,
+                              "x2": 136,
+                              "y2": 550,
+                              "bbox": 748,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 127,
+                              "y": 560,
+                              "x2": 200,
+                              "y2": 624,
+                              "bbox": 749,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 203,
+                              "y": 534,
+                              "x2": 222,
+                              "y2": 553,
+                              "bbox": 750,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 214,
+                              "y": 590,
+                              "x2": 225,
+                              "y2": 602,
+                              "bbox": 751,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 290,
+                              "y": 553,
+                              "x2": 313,
+                              "y2": 606,
+                              "bbox": 752,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 239,
+                              "y": 597,
+                              "x2": 262,
+                              "y2": 614,
+                              "bbox": 753,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 271,
+                              "y": 609,
+                              "x2": 291,
+                              "y2": 629,
+                              "bbox": 754,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 250,
+                              "y": 634,
+                              "x2": 262,
+                              "y2": 647,
+                              "bbox": 755,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 227,
+                              "y": 665,
+                              "x2": 255,
+                              "y2": 704,
+                              "bbox": 756,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 175,
+                              "y": 712,
+                              "x2": 227,
+                              "y2": 733,
+                              "bbox": 757,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 313,
+                              "y": 707,
+                              "x2": 338,
+                              "y2": 731,
+                              "bbox": 758,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 355,
+                              "y": 718,
+                              "x2": 380,
+                              "y2": 738,
+                              "bbox": 759,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 288,
+                              "y": 635,
+                              "x2": 303,
+                              "y2": 665,
+                              "bbox": 760,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 318,
+                              "y": 634,
+                              "x2": 334,
+                              "y2": 662,
+                              "bbox": 761,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 327,
+                              "y": 579,
+                              "x2": 340,
+                              "y2": 597,
+                              "bbox": 762,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 285,
+                              "y": 486,
+                              "x2": 319,
+                              "y2": 538,
+                              "bbox": 763,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 174,
+                              "y": 489,
+                              "x2": 187,
+                              "y2": 510,
+                              "bbox": 764,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 164,
+                              "y": 517,
+                              "x2": 185,
+                              "y2": 550,
+                              "bbox": 765,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 622,
+                              "y": 230,
+                              "x2": 685,
+                              "y2": 303,
+                              "bbox": 766,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 567,
+                              "y": 318,
+                              "x2": 617,
+                              "y2": 376,
+                              "bbox": 767,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 527,
+                              "y": 314,
+                              "x2": 562,
+                              "y2": 400,
+                              "bbox": 768,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 415,
+                              "y": 45,
+                              "x2": 499,
+                              "y2": 120,
+                              "bbox": 769,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 579,
+                              "y": 27,
+                              "x2": 635,
+                              "y2": 51,
+                              "bbox": 770,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 560,
+                              "y": 71,
+                              "x2": 591,
+                              "y2": 158,
+                              "bbox": 771,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 162,
+                              "y": 307,
+                              "x2": 179,
+                              "y2": 340,
+                              "bbox": 772,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 181,
+                              "y": 346,
+                              "x2": 206,
+                              "y2": 392,
+                              "bbox": 773,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 62,
+                              "y": 356,
+                              "x2": 81,
+                              "y2": 384,
+                              "bbox": 774,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 94,
+                              "y": 373,
+                              "x2": 114,
+                              "y2": 407,
+                              "bbox": 775,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 82,
+                              "y": 413,
+                              "x2": 102,
+                              "y2": 455,
+                              "bbox": 776,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 129,
+                              "y": 421,
+                              "x2": 146,
+                              "y2": 436,
+                              "bbox": 777,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 153,
+                              "y": 380,
+                              "x2": 170,
+                              "y2": 399,
+                              "bbox": 778,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 157,
+                              "y": 403,
+                              "x2": 175,
+                              "y2": 422,
+                              "bbox": 779,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 292,
+                              "y": 375,
+                              "x2": 316,
+                              "y2": 412,
+                              "bbox": 780,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 250,
+                              "y": 406,
+                              "x2": 268,
+                              "y2": 445,
+                              "bbox": 781,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 417,
+                              "y": 273,
+                              "x2": 433,
+                              "y2": 313,
+                              "bbox": 782,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 453,
+                              "y": 233,
+                              "x2": 480,
+                              "y2": 260,
+                              "bbox": 783,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 468,
+                              "y": 188,
+                              "x2": 485,
+                              "y2": 222,
+                              "bbox": 784,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 367,
+                              "y": 182,
+                              "x2": 428,
+                              "y2": 244,
+                              "bbox": 785,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 358,
+                              "y": 438,
+                              "x2": 377,
+                              "y2": 461,
+                              "bbox": 786,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 392,
+                              "y": 416,
+                              "x2": 410,
+                              "y2": 463,
+                              "bbox": 787,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 324,
+                              "y": 402,
+                              "x2": 338,
+                              "y2": 422,
+                              "bbox": 788,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 185,
+                              "y": 453,
+                              "x2": 218,
+                              "y2": 488,
+                              "bbox": 789,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 136,
+                              "y": 451,
+                              "x2": 152,
+                              "y2": 463,
+                              "bbox": 790,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 182,
+                              "y": 404,
+                              "x2": 203,
+                              "y2": 424,
+                              "bbox": 791,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 456,
+                              "y": 522,
+                              "x2": 470,
+                              "y2": 537,
+                              "bbox": 792,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 467,
+                              "y": 536,
+                              "x2": 484,
+                              "y2": 559,
+                              "bbox": 793,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 364,
+                              "y": 763,
+                              "x2": 380,
+                              "y2": 778,
+                              "bbox": 794,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 247,
+                              "y": 738,
+                              "x2": 263,
+                              "y2": 751,
+                              "bbox": 795,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 393,
+                              "y": 673,
+                              "x2": 407,
+                              "y2": 695,
+                              "bbox": 796,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 51,
+                              "y": 215,
+                              "x2": 95,
+                              "y2": 307,
+                              "bbox": 797,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 27,
+                              "y": 293,
+                              "x2": 55,
+                              "y2": 329,
+                              "bbox": 798,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 61,
+                              "y": 310,
+                              "x2": 97,
+                              "y2": 338,
+                              "bbox": 799,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 95,
+                              "y": 323,
+                              "x2": 114,
+                              "y2": 339,
+                              "bbox": 800,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 75,
+                              "y": 178,
+                              "x2": 91,
+                              "y2": 198,
+                              "bbox": 802,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 97,
+                              "y": 173,
+                              "x2": 109,
+                              "y2": 201,
+                              "bbox": 803,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 400,
+                              "y": 341,
+                              "x2": 414,
+                              "y2": 359,
+                              "bbox": 804,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 219,
+                              "y": 245,
+                              "x2": 286,
+                              "y2": 320,
+                              "bbox": 805,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 286,
+                              "y": 277,
+                              "x2": 297,
+                              "y2": 289,
+                              "bbox": 806,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 308,
+                              "y": 222,
+                              "x2": 323,
+                              "y2": 239,
+                              "bbox": 807,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 51,
+                              "y": 215,
+                              "x2": 95,
+                              "y2": 307,
+                              "bbox": 811,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 27,
+                              "y": 293,
+                              "x2": 55,
+                              "y2": 329,
+                              "bbox": 812,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 61,
+                              "y": 310,
+                              "x2": 97,
+                              "y2": 338,
+                              "bbox": 813,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 95,
+                              "y": 323,
+                              "x2": 114,
+                              "y2": 339,
+                              "bbox": 814,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 75,
+                              "y": 178,
+                              "x2": 91,
+                              "y2": 198,
+                              "bbox": 816,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 97,
+                              "y": 173,
+                              "x2": 109,
+                              "y2": 201,
+                              "bbox": 817,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 400,
+                              "y": 341,
+                              "x2": 414,
+                              "y2": 359,
+                              "bbox": 818,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 219,
+                              "y": 245,
+                              "x2": 286,
+                              "y2": 320,
+                              "bbox": 819,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 286,
+                              "y": 277,
+                              "x2": 297,
+                              "y2": 289,
+                              "bbox": 820,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 308,
+                              "y": 222,
+                              "x2": 323,
+                              "y2": 239,
+                              "bbox": 821,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 51,
+                              "y": 215,
+                              "x2": 95,
+                              "y2": 307,
+                              "bbox": 825,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 27,
+                              "y": 293,
+                              "x2": 55,
+                              "y2": 329,
+                              "bbox": 826,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 61,
+                              "y": 310,
+                              "x2": 97,
+                              "y2": 338,
+                              "bbox": 827,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 95,
+                              "y": 323,
+                              "x2": 114,
+                              "y2": 339,
+                              "bbox": 828,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 75,
+                              "y": 178,
+                              "x2": 91,
+                              "y2": 198,
+                              "bbox": 830,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 97,
+                              "y": 173,
+                              "x2": 109,
+                              "y2": 201,
+                              "bbox": 831,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 400,
+                              "y": 341,
+                              "x2": 414,
+                              "y2": 359,
+                              "bbox": 832,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 219,
+                              "y": 245,
+                              "x2": 286,
+                              "y2": 320,
+                              "bbox": 833,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 286,
+                              "y": 277,
+                              "x2": 297,
+                              "y2": 289,
+                              "bbox": 834,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 308,
+                              "y": 222,
+                              "x2": 323,
+                              "y2": 239,
+                              "bbox": 835,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 51,
+                              "y": 215,
+                              "x2": 95,
+                              "y2": 307,
+                              "bbox": 839,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 27,
+                              "y": 293,
+                              "x2": 55,
+                              "y2": 329,
+                              "bbox": 840,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 61,
+                              "y": 310,
+                              "x2": 97,
+                              "y2": 338,
+                              "bbox": 841,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 95,
+                              "y": 323,
+                              "x2": 114,
+                              "y2": 339,
+                              "bbox": 842,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 75,
+                              "y": 178,
+                              "x2": 91,
+                              "y2": 198,
+                              "bbox": 844,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 97,
+                              "y": 173,
+                              "x2": 109,
+                              "y2": 201,
+                              "bbox": 845,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 400,
+                              "y": 341,
+                              "x2": 414,
+                              "y2": 359,
+                              "bbox": 846,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 219,
+                              "y": 245,
+                              "x2": 286,
+                              "y2": 320,
+                              "bbox": 847,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 286,
+                              "y": 277,
+                              "x2": 297,
+                              "y2": 289,
+                              "bbox": 848,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 308,
+                              "y": 222,
+                              "x2": 323,
+                              "y2": 239,
+                              "bbox": 849,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 51,
+                              "y": 215,
+                              "x2": 95,
+                              "y2": 307,
+                              "bbox": 853,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 27,
+                              "y": 293,
+                              "x2": 55,
+                              "y2": 329,
+                              "bbox": 854,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 61,
+                              "y": 310,
+                              "x2": 97,
+                              "y2": 338,
+                              "bbox": 855,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 95,
+                              "y": 323,
+                              "x2": 114,
+                              "y2": 339,
+                              "bbox": 856,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 75,
+                              "y": 178,
+                              "x2": 91,
+                              "y2": 198,
+                              "bbox": 858,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 97,
+                              "y": 173,
+                              "x2": 109,
+                              "y2": 201,
+                              "bbox": 859,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 400,
+                              "y": 341,
+                              "x2": 414,
+                              "y2": 359,
+                              "bbox": 860,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 219,
+                              "y": 245,
+                              "x2": 286,
+                              "y2": 320,
+                              "bbox": 861,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 286,
+                              "y": 277,
+                              "x2": 297,
+                              "y2": 289,
+                              "bbox": 862,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  },
+                  {
+                        "shape_attributes": {
+                              "x": 308,
+                              "y": 222,
+                              "x2": 323,
+                              "y2": 239,
+                              "bbox": 863,
+                              "class_id": "shrub",
+                              "class_id2": "1"
+                        }
+                  }
+            ]
+      }
+]
